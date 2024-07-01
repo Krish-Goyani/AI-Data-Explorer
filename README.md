@@ -13,3 +13,6 @@ This application allows you to explore and analyze your dataset using an AI-powe
 2. 📁 Upload a CSV file containing your dataset.
 3. ❓ Enter your query about the dataset in the input field provided.
 4. 🚀 The AI agent will process your query and display the results.
+
+
+check out live version : https://huggingface.co/spaces/KrishGoyani/AI_Data_Explorer_with_Gemini_API
